@@ -90,7 +90,7 @@ Or just open `index.html` via any local HTTP server.
 ## 📺 YouTube
 
 This project was built live as a vibe coding demo.  
-Subscribe for more AI-assisted dev sessions → **[youtube.com/@ritterdeshimmels](#)**
+Subscribe for more AI-assisted dev sessions → **[youtube.com/@SoufianeZahir](#)**
 
 ---
 
